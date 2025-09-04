@@ -1,8 +1,15 @@
 Commit 1:
 Made a virtual environment:
 python -m venv venv
+
 to activate it in powershell:
 ./venv/Scripts/Activate.ps1
+
+to activate in command prompt:
+venv\Scripts\activate.bat
+
+to deactivate or exit venv:
+deactivate
 
 installations required:
 pip install pygame
