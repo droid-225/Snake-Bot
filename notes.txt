@@ -1,0 +1,10 @@
+Commit 1:
+Made a virtual environment:
+python -m venv venv
+to activate it in powershell:
+./venv/Scripts/Activate.ps1
+
+installations required:
+pip install pygame
+pip3 install torch torchvision [just go to the pytorch website if you don't know what to do]
+pip install matplotlib ipython
